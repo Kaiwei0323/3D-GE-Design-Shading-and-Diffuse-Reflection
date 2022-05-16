@@ -30,3 +30,5 @@ Post-Processing: Color(20 - 255) = Reflectivity x display_scaling + display_shif
 Fix x value to size and modify y and z value to form Rotating Square
 #### Right Surface of The Cube
 Fix y value to size and modify x and z value to form Tree Branch
+#### Right Surface of The Cube
+Fix z value to size + 10 and modify x and y value to form initial
